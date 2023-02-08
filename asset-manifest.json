@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/binca.github.io/static/css/main.7217aeb3.css",
-    "main.js": "/binca.github.io/static/js/main.61bbaa74.js",
-    "static/js/787.252c5a3f.chunk.js": "/binca.github.io/static/js/787.252c5a3f.chunk.js",
-    "static/media/ClashGrotesk-Variable.ttf": "/binca.github.io/static/media/ClashGrotesk-Variable.6eccb344b604e67e2145.ttf",
-    "static/media/ClashGrotesk-Medium.ttf": "/binca.github.io/static/media/ClashGrotesk-Medium.b069c91b9e31d834f2d9.ttf",
-    "static/media/ClashGrotesk-Semibold.ttf": "/binca.github.io/static/media/ClashGrotesk-Semibold.d583b8efe538269e0524.ttf",
-    "static/media/ClashGrotesk-Extralight.ttf": "/binca.github.io/static/media/ClashGrotesk-Extralight.b5d66aba1e9fd9f79706.ttf",
-    "static/media/ClashGrotesk-Light.ttf": "/binca.github.io/static/media/ClashGrotesk-Light.592714378da042e0dfc6.ttf",
-    "static/media/ClashGrotesk-Regular.ttf": "/binca.github.io/static/media/ClashGrotesk-Regular.4a7d0a7e0185e0218b72.ttf",
-    "static/media/ClashGrotesk-Bold.ttf": "/binca.github.io/static/media/ClashGrotesk-Bold.934ff377893b6b073594.ttf",
-    "index.html": "/binca.github.io/index.html",
-    "main.7217aeb3.css.map": "/binca.github.io/static/css/main.7217aeb3.css.map",
-    "main.61bbaa74.js.map": "/binca.github.io/static/js/main.61bbaa74.js.map",
-    "787.252c5a3f.chunk.js.map": "/binca.github.io/static/js/787.252c5a3f.chunk.js.map"
+    "main.css": "/binca/static/css/main.71b3a181.css",
+    "main.js": "/binca/static/js/main.e7e9319d.js",
+    "static/js/787.252c5a3f.chunk.js": "/binca/static/js/787.252c5a3f.chunk.js",
+    "static/media/ClashGrotesk-Variable.ttf": "/binca/static/media/ClashGrotesk-Variable.6eccb344b604e67e2145.ttf",
+    "static/media/ClashGrotesk-Medium.ttf": "/binca/static/media/ClashGrotesk-Medium.b069c91b9e31d834f2d9.ttf",
+    "static/media/ClashGrotesk-Semibold.ttf": "/binca/static/media/ClashGrotesk-Semibold.d583b8efe538269e0524.ttf",
+    "static/media/ClashGrotesk-Extralight.ttf": "/binca/static/media/ClashGrotesk-Extralight.b5d66aba1e9fd9f79706.ttf",
+    "static/media/ClashGrotesk-Light.ttf": "/binca/static/media/ClashGrotesk-Light.592714378da042e0dfc6.ttf",
+    "static/media/ClashGrotesk-Regular.ttf": "/binca/static/media/ClashGrotesk-Regular.4a7d0a7e0185e0218b72.ttf",
+    "static/media/ClashGrotesk-Bold.ttf": "/binca/static/media/ClashGrotesk-Bold.934ff377893b6b073594.ttf",
+    "index.html": "/binca/index.html",
+    "main.71b3a181.css.map": "/binca/static/css/main.71b3a181.css.map",
+    "main.e7e9319d.js.map": "/binca/static/js/main.e7e9319d.js.map",
+    "787.252c5a3f.chunk.js.map": "/binca/static/js/787.252c5a3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7217aeb3.css",
-    "static/js/main.61bbaa74.js"
+    "static/css/main.71b3a181.css",
+    "static/js/main.e7e9319d.js"
   ]
 }
