@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Don’t make me think",
+        "author": "Steve Krug ",
+        "category":"UX"
+    },
+    {
+        "title": "Laws of UX",
+        "author": "Jon Yablonski ",
+        "category":"UX"
+    },
+    {
+        "title": "Idea, producto y negocio",
+        "author": "Justo Hidalgo ",
+        "category":"ENTREPRENEURSHIP",
+        "categoryTwo":"BUSINESS",
+        "categoryThree":"PRODUCT"
+
+    },
+    {
+        "title": "100 Things Every Designer Needs to Know About People, 2nd Edition",
+        "author": "Susan M. Weinschenk",
+        "category":"UX",
+        "categoryTwo":"PERCEPTION",
+        "categoryThree":"PSYCHOLOGY"
+    }
+]

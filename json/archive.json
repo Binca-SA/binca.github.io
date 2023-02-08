@@ -1,0 +1,87 @@
+[
+    {
+        "title": "As an heaven",
+        "description": "Product photography for Ananda ",
+        "img":"images/archiveImgs/As-an-heaven.jpg"
+    },
+    {
+        "title": "Crossing a sunset",
+        "description": "Colour palette created from a photograph taken during an aeroplane flight ",
+        "img":"images/archiveImgs/crossing-a-sunset.jpg"
+    },
+    {
+        "title": "Mirage",
+        "description": "Product photography for Ananda",
+        "img":"images/archiveImgs/ananda-product-photo.jpg"
+    },
+    {
+        "title": "A Special light",
+        "description": "Product photography for Ananda",
+        "img":"images/archiveImgs/a-special-light.jpg"
+    },
+    {
+        "title": "Create what you need to climb",
+        "description": "Illustration where I put abstraction and gradients into practice",
+        "tools":"Procreate",
+        "img":"images/archiveImgs/illustration-vinil.jpg"
+    },
+    {
+        "title": "Nesspreso parade",
+        "description": "Design of a street coffee stop inspired by the Nespresso coffee brand.",
+        "tools":"Illustrator and Photoshop",
+        "img":"images/archiveImgs/nespresso-stop.jpg"
+    },
+    {
+        "title": "Like a painting",
+        "description": "Color palette made by a photography.",
+        "img":"images/archiveImgs/like-painting.jpg"
+    },
+    {
+        "title": "Allium ostrowskianum",
+        "description": "Illustration printed on canvas bag",
+        "img":"images/archiveImgs/print-in-bag.jpg"
+    },
+    {
+        "title": "Coffee pattern",
+        "description": "Pattern design for D'origen company",
+        "img":"images/archiveImgs/coffee-pattern.jpg"
+    },
+    {
+        "title": "Let it grow",
+        "description": "Illustration made for print clothes or bags",
+        "img":"images/archiveImgs/illustration-let-it-grow.jpg"
+    },
+    {
+        "title": "Never the same sunset",
+        "description": "Color palette made by a photography taken in Altea, Alicante",
+        "img":"images/archiveImgs/never-the-same-sunset.jpg"
+    },
+    {
+        "title": "The mistery of Espai Verd",
+        "description": "Illustration of Espai Verd, a famous buiding in Valencia",
+        "tools":"Procreate",
+        "img":"images/archiveImgs/illustration-espai-verd.jpg"
+    },
+    {
+        "title": "Through the arch",
+        "description": "Color palette made by a photography taken in Altea, Alicante",
+        "img":"images/archiveImgs/through-the-arch.jpg"
+    },
+    {
+        "title": "Nowhere",
+        "description": "Illustration",
+        "tools":"Procreate",
+        "img":"images/archiveImgs/illustration-nowhere.jpg"
+    },
+    {
+        "title": "Oranges in the sky",
+        "description": "Color palette made by a photography.",
+        "img":"images/archiveImgs/oranges-in-the-sky.jpg"
+    },
+    {
+        "title": "La Forchetta",
+        "description": "Illustrations and menu design for the restaurant La Forchetta, ubicated in Altea, Alicante",
+        "img":"images/archiveImgs/forchetta.jpg"
+    }
+    
+]
