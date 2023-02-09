@@ -1,19 +1,5 @@
 [
-    {
-        "open_on_page": true,
-        "id": "live",
-        "name":"Live4Life",
-        "video":"../images/about/about-vide.mp4",
-        "category": "frontend",
-        "filter":["Frontend", "UX | UI"],
-        "description": "One page presentation",
-        "tools": ["HTML", "SCSS", "JS", "FIGMA"],
-        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
-        "uxThings":"new",
-        "newTitle":"Nuevo titiulo",
-        "img":"images/cards/live.png"
-
-    },
+    
     {
         "open_on_page": true,
         "id": "weliving",
@@ -30,6 +16,21 @@
         "image2": "../images/about/desk-about.jpg",
         "image3": "../images/about/desk-about.jpg",
         "image4": "../images/about/desk-about.jpg"
+    },
+    {
+        "open_on_page": true,
+        "id": "live",
+        "name":"Live4Life",
+        "video":"../images/about/about-vide.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "One page presentation",
+        "tools": ["HTML", "SCSS", "JS", "FIGMA"],
+        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
+        "uxThings":"new",
+        "newTitle":"Nuevo titiulo",
+        "img":"images/cards/live.png"
+
     },
     {
         "id": "about-me",
