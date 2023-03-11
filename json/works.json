@@ -19,18 +19,106 @@
     },
     {
         "open_on_page": true,
-        "id": "live",
-        "name":"Live4Life",
+        "id": "sphere",
+        "name":"Sphere",
         "video":"../images/about/about-vide.mp4",
         "category": "frontend",
         "filter":["Frontend", "UX | UI"],
-        "description": "One page presentation",
-        "tools": ["HTML", "SCSS", "JS", "FIGMA"],
+        "description": "Web layout design",
+        "tools": ["FIGMA"],
         "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
         "uxThings":"new",
         "newTitle":"Nuevo titiulo",
-        "img":"images/cards/live.png"
+        "img":"images/sphere/cover.png"
 
+    },
+    {
+        "id": "terralava",
+        "name": "Terralava",
+        "video":"../images/terra/terra-video.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "Online shop",
+        "tools": ["HTML", "SCSS", "JS", "FIGMA"],
+        "img": "images/cards/card-terralava.jpg",
+        "image1": "../images/terra/desk-terra.jpg",
+        "image2": "../images/terra/mob-terra.jpg",
+        "image3":"../images/terra/product-terra.png",
+        "image4":"../images/terra/home-terra.jpg",
+        "introduction":"Front-end design and programming of a dynamic and scalable website for a jewellery store. Sections created: Home, Shop with respective categories and an interactive test for users. Mobile first designed and programmed.",
+        "goal1":"PERSONAL: One of my main objectives was to make a design that looks like a real online shop website. And learn about the architecture of online shop websites.",
+        "goal2":"PROFESSIONAL: Make a design that looks like a real online shop website. Add interactivity and make the user's journey through the website fun. To do this I looked for a way to innovate and stand out from the competition's websites",
+        "methodologies1":"",
+        "methodologies2":"",
+        "methodologies3":"",
+        "methodologies4":"",
+        "bestPractices1":"Easy and friendly navigation",
+        "bestPractices2":"In the home section we find several calls to action to help the user to navigate",
+        "bestPractices3":"In each section there are links that take you to other sections, in this way we do not leave any section without an exit",
+        "bestPractices4":"Design made from atom design, that is, designing by components.",
+        "bestPractices5":"Create a simple interactive quiz to make the user feel involved and important. Consisting of 7 questions, by answering a question, a smooth scroll took the user to the next one, which required minimum effort.  The results vary according to the option chosen for each question. In this way, we offer user support and innovate in the online jewellery retail market.",
+        "wireframes":"../images/works/terralava/wireframes-compr.jpg",
+        "":"",
+        "frontGoal":"Move away from static programming. And learn how to dynamise content, using tools such as JavaScript and PHP",
+        "bestPracticesF1":"Mobile first programming",
+        "bestPracticesF2":"Responsive for: mobile, tablet and desktop",
+        "scss":"SCSS",
+        "scss1":"Grid",
+        "scss2":"Flex",
+        "scss3":"Use of variables, mixins, nested classes ",
+        "html":"PHP",
+        "html1":"Incorporation of elements such as the header and footer with a simple function",
+        "html2":"Manipulation of paths to achieve shorter URLs, which is beneficial for SEO",
+        "js":"JAVASCRIPT",
+        "js1":"Create a JSON to store product information and request the information. In this way fill each section dynamically via Axios and Fetch. In this way for the shop section, a grid was created as a structure with scss and the images and data such as price, name of each jewel or description were filled in with JSON.",
+        "js2":"Creation of an interactive test for users. By completing the test questions, results are displayed according to what has been selected. The answers were in an array, and the results were loaded via a path. In this way I learned a bit about paths.",
+        "js3":"Learn to use online libraries to incorporate a swiper. At the same time learning the negative part of using them",
+        "WebOnLive":"https://frontend.esatid3-2021.com/binca-beta",
+        "Git":"https://github.com/Binca-SA/terralava-beta",
+        "projects": [
+            {
+                "Goals":"",
+                "Methodologies":[
+                    {
+                        "user flow":"",
+                        "user persona":""
+                    }
+                ],
+                "best-practices":"",
+                "Wireframes":"",
+                "Tools":["MIRO, FIGMA"]
+            },
+            {
+                "Goals":"Move away from static programming. And learn how to dynamise content, using tools such as JavaScript and PHP",
+                "Methodologies":[
+                    {
+                        "mobile-first-programming":"mobile first programming",
+                        "Responsive":"Responsive for: mobile, tablet and desktop",
+                        "SCSS":[
+                            {
+                                "grid":"grid",
+                                "flex":"flex",
+                                "variables":"Use of variables for: colour, spacing, margins, texts..",
+                                "mixins":"Mixins",
+                                "gradient":"Animated Gradient"
+                            }
+                        ],
+                        "HTML": [
+                            {
+                                "accesibility":"accessibility on svg and images"
+                            }
+                        ],
+                        "JAVASCRIPT": [
+                            {
+                                "labels":"labels on focus when user it’s on the selected section, that helps ubication. ",
+                                "gradient": "functionality of the animated gradient made with css:is activated in any section except the home page."
+                            }
+                        ]
+                    }
+                ]
+                
+            }
+        ]
     },
     {
         "id": "about-me",
@@ -121,94 +209,7 @@
             }
         ]
     },
-    {
-        "id": "terralava",
-        "name": "Terralava",
-        "video":"../images/terra/terra-video.mp4",
-        "category": "frontend",
-        "filter":["Frontend", "UX | UI"],
-        "description": "Online shop",
-        "tools": ["HTML", "SCSS", "JS", "FIGMA"],
-        "img": "images/cards/card-terralava.jpg",
-        "image1": "../images/terra/desk-terra.jpg",
-        "image2": "../images/terra/mob-terra.jpg",
-        "image3":"../images/terra/product-terra.png",
-        "image4":"../images/terra/home-terra.jpg",
-        "introduction":"Front-end design and programming of a dynamic and scalable website for a jewellery store. Sections created: Home, Shop with respective categories and an interactive test for users. Mobile first designed and programmed.",
-        "goal1":"PERSONAL: One of my main objectives was to make a design that looks like a real online shop website. And learn about the architecture of online shop websites.",
-        "goal2":"PROFESSIONAL: Make a design that looks like a real online shop website. Add interactivity and make the user's journey through the website fun. To do this I looked for a way to innovate and stand out from the competition's websites",
-        "methodologies1":"",
-        "methodologies2":"",
-        "methodologies3":"",
-        "methodologies4":"",
-        "bestPractices1":"Easy and friendly navigation",
-        "bestPractices2":"In the home section we find several calls to action to help the user to navigate",
-        "bestPractices3":"In each section there are links that take you to other sections, in this way we do not leave any section without an exit",
-        "bestPractices4":"Design made from atom design, that is, designing by components.",
-        "bestPractices5":"Create a simple interactive quiz to make the user feel involved and important. Consisting of 7 questions, by answering a question, a smooth scroll took the user to the next one, which required minimum effort.  The results vary according to the option chosen for each question. In this way, we offer user support and innovate in the online jewellery retail market.",
-        "wireframes":"../images/works/terralava/wireframes-compr.jpg",
-        "":"",
-        "frontGoal":"Move away from static programming. And learn how to dynamise content, using tools such as JavaScript and PHP",
-        "bestPracticesF1":"Mobile first programming",
-        "bestPracticesF2":"Responsive for: mobile, tablet and desktop",
-        "scss":"SCSS",
-        "scss1":"Grid",
-        "scss2":"Flex",
-        "scss3":"Use of variables, mixins, nested classes ",
-        "html":"PHP",
-        "html1":"Incorporation of elements such as the header and footer with a simple function",
-        "html2":"Manipulation of paths to achieve shorter URLs, which is beneficial for SEO",
-        "js":"JAVASCRIPT",
-        "js1":"Create a JSON to store product information and request the information. In this way fill each section dynamically via Axios and Fetch. In this way for the shop section, a grid was created as a structure with scss and the images and data such as price, name of each jewel or description were filled in with JSON.",
-        "js2":"Creation of an interactive test for users. By completing the test questions, results are displayed according to what has been selected. The answers were in an array, and the results were loaded via a path. In this way I learned a bit about paths.",
-        "js3":"Learn to use online libraries to incorporate a swiper. At the same time learning the negative part of using them",
-        "WebOnLive":"https://frontend.esatid3-2021.com/binca-beta",
-        "Git":"https://github.com/Binca-SA/terralava-beta",
-        "projects": [
-            {
-                "Goals":"",
-                "Methodologies":[
-                    {
-                        "user flow":"",
-                        "user persona":""
-                    }
-                ],
-                "best-practices":"",
-                "Wireframes":"",
-                "Tools":["MIRO, FIGMA"]
-            },
-            {
-                "Goals":"Move away from static programming. And learn how to dynamise content, using tools such as JavaScript and PHP",
-                "Methodologies":[
-                    {
-                        "mobile-first-programming":"mobile first programming",
-                        "Responsive":"Responsive for: mobile, tablet and desktop",
-                        "SCSS":[
-                            {
-                                "grid":"grid",
-                                "flex":"flex",
-                                "variables":"Use of variables for: colour, spacing, margins, texts..",
-                                "mixins":"Mixins",
-                                "gradient":"Animated Gradient"
-                            }
-                        ],
-                        "HTML": [
-                            {
-                                "accesibility":"accessibility on svg and images"
-                            }
-                        ],
-                        "JAVASCRIPT": [
-                            {
-                                "labels":"labels on focus when user it’s on the selected section, that helps ubication. ",
-                                "gradient": "functionality of the animated gradient made with css:is activated in any section except the home page."
-                            }
-                        ]
-                    }
-                ]
-                
-            }
-        ]
-    },
+    
 
 
 
@@ -272,33 +273,7 @@
                         "A logo construction was made with its variants, colour palettes, and typography uses.", "Creation of naming, logotype and different applications such as fabric bags, packaging, cards, labels, candles,..."],
         "Objective":["A fresh visual identity, with bright and harmonious colours to make the brand's target feel identified.", "Represent the values of the brand in a visual way such as: 100% handmade and organic, quality fabrics, fresh and comfortable clothes."]
     },
-    {
-        "id": "signane-system",
-        "name": "Signane System for UMH",
-        "category": "graphic-design",
-        "filter":["Graphic Design"],
-        "description": "Corporate identity design",
-        "tools": ["ILLUSTRATOR", "PHOTOSHOP", "INDESIGN"],
-        "img":"images/cards/card-signane.jpg",
-        "introduction":"Development of the signage system for the University of Fine Arts in Altea. This method has been created with the aim of being a guidance and orientation tool for passers-by in the faculty, given the lack of a method to help locate the areas and services found in the university.",
-        "image1": "",
-        "image2": "",
-        "image3": "",
-        "image4": "",
-        "needs1": "The campus has ten buildings of different disciplines, each with a minimum of two floors and a maximum of three. The centre also has a number of key services such as a secretary's office, concierge's office, reprographics and a cafeteria. And none of these places are identified and you don't know how to get anywhere because there is no signposting. ",
-        "needs2": "With the creation of such a system, the identity of the university is reinforced, as well as the quality of the service to users and, of course, it solves the problems of orientation in the space",
-        "needs3": "Types of signanes created, identification, directional, directories and maps.",
-        "obj1": "By means of a study of the space, the aim was to solve orientation problems as well as to take advantage of the spaciousness of the campus, its passageways and routes. Likewise, the elements that make up the architecture have been taken into account, creating signs that respect this aspect. ",
-        "obj2": "The design features propose a youthful aesthetic, differentiation and innovation. These aspects are dealt with through the material, format, colours and typography.",
-        "obj3": "Through this system, the value of the campus, its personality and its quality are highlighted, creating a space that is pleasant to walk through. ",
-        "obj4": "Helping people to get to places without getting lost, or to find the best route to their destination. User experience is key in this project",
-        "tool1": "Adobe Illustrator",
-        "tool2": "Adobe Photoshop",
-        "tool3": "Adobe InDesign",
-        "tool4": "Procreate",
-        "needs-solved":["The campus has ten buildings of different disciplines, each with a minimum of two floors and a maximum of three. The centre also has a number of key services such as a secretary's office, concierge's office, reprographics and a cafeteria. And none of these places are identified and you don't know how to get anywhere because there is no signposting.", "With the creation of such a system, the identity of the university is reinforced, as well as the quality of the service to users and, of course, it solves the problems of orientation in the space.", "Types of signanes created, identification, directional, directories and maps."],
-        "Objective":["By means of a study of the space, the aim was to solve orientation problems as well as to take advantage of the spaciousness of the campus, its passageways and routes. Likewise, the elements that make up the architecture have been taken into account, creating signs that respect this aspect", "The design features propose a youthful aesthetic, differentiation and innovation. These aspects are dealt with through the material, format, colours and typography. Through this system, the value of the campus, its personality and its quality are highlighted, creating a space that is pleasant to walk through.", "Helping people to get to places without getting lost, or to find the best route to their destination. User experience is key in this project"]
-    },
+
     {
         "id": "health-centre",
         "name": "Health Centre Almassera",
