@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/binca/static/css/main.44cc5b46.css",
+    "main.css": "/binca/static/css/main.addb734b.css",
     "main.js": "/binca/static/js/main.fb4d3a3d.js",
     "static/js/787.252c5a3f.chunk.js": "/binca/static/js/787.252c5a3f.chunk.js",
     "static/media/ClashGrotesk-Variable.ttf": "/binca/static/media/ClashGrotesk-Variable.6eccb344b604e67e2145.ttf",
@@ -11,12 +11,12 @@
     "static/media/ClashGrotesk-Regular.ttf": "/binca/static/media/ClashGrotesk-Regular.4a7d0a7e0185e0218b72.ttf",
     "static/media/ClashGrotesk-Bold.ttf": "/binca/static/media/ClashGrotesk-Bold.934ff377893b6b073594.ttf",
     "index.html": "/binca/index.html",
-    "main.44cc5b46.css.map": "/binca/static/css/main.44cc5b46.css.map",
+    "main.addb734b.css.map": "/binca/static/css/main.addb734b.css.map",
     "main.fb4d3a3d.js.map": "/binca/static/js/main.fb4d3a3d.js.map",
     "787.252c5a3f.chunk.js.map": "/binca/static/js/787.252c5a3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44cc5b46.css",
+    "static/css/main.addb734b.css",
     "static/js/main.fb4d3a3d.js"
   ]
 }
