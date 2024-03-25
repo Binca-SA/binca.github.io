@@ -1,0 +1,28 @@
+.footer{
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+    padding-left: var(--exterior-margin);
+    padding-right: var(--exterior-margin);
+    font-size: var(--introMob-work-size);
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+    .footer__p:last-of-type{
+        align-self: flex-end;
+    }
+    .footer__p span{
+        color: var(--txt-cta);
+        font-weight: 600;
+    }
+
+/*RESPONSIVE DESKTOP*/
+@media (min-width:950px){
+    .footer{
+        padding-left: 150px;
+        padding-right: 150px;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}

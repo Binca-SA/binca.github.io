@@ -1,0 +1,69 @@
+
+.section-books__title {
+    display: grid;
+    grid-template-columns: .5fr 1fr;
+    grid-template-rows: 1fr .25fr;
+    column-gap: 2rem;
+}
+    .section-books__subtitle{
+        justify-self: flex-start;
+        grid-column: 2/-1;
+        grid-row-start: 2;
+        font-size:var(--introMob-work-size) ;
+        font-family:'ClashGrotesk-Light';
+        line-height: 1.2;
+        margin-top: -20px;
+        margin-bottom: 50px;
+    }
+    .container__book {
+        border-top: 1px solid var(--dark-grey);
+        /* border-bottom: 1px solid var(--dark-grey); */
+    }
+    .container__book:last-child{
+        border-bottom: 1px solid var(--dark-grey);
+    }
+    .container__book__title {
+        font-family: var(--title-card-font);
+        font-size: 4rem;
+        font-weight: 'ClashGrotesk-Medium';
+        color: var(--dark-grey);
+        margin-top: 1rem;
+    }
+    .container__book__author {
+        font-family: var(--title-card-font);
+        font-variation-settings: var(--subtitleMob-card-font);
+        font-size: 2rem;
+        color: var(--dark-grey);
+    }
+
+    .display-flex-row {
+        margin-top: 3rem;
+        margin-bottom: 1rem;
+        display: flex;
+        column-gap: 3rem;
+    }
+
+    .interior-padding {
+        padding-left: 140px;
+        padding-right: 140px;
+    }
+    @media (min-width:300px) and (max-width:650px) {
+        .section-books__title {
+            display: flex;
+            flex-direction: column;
+        }
+        .section-books__subtitle {
+            align-self: flex-end;
+            margin-top: 0;
+        }
+        .container__book__title {
+            font-size: 3rem;
+        }
+        .container__book__author {
+            font-size: 2rem;
+        }
+        .interior-padding {
+            padding-left: 45px;
+            padding-right: 45px;
+        }
+    }

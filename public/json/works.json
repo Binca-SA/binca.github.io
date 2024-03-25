@@ -1,0 +1,256 @@
+[
+    {
+        "open_on_page": true,
+        "id": "growth",
+        "name":"Growth AI",
+        "video":"../images/about/about-vide.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "2023 · Product design",
+        "tools": ["FIGMA"],
+        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
+        "uxThings":"new",
+        "newTitle":"Nuevo titiulo",
+        "img":"images/cards/growth.png"
+
+    },
+    {
+        "open_on_page": true,
+        "id": "caudalie",
+        "name":"Caudalie",
+        "video":"../images/about/about-vide.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "Website redesign",
+        "tools": ["FIGMA"],
+        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
+        "uxThings":"new",
+        "newTitle":"Nuevo titiulo",
+        "img":"images/cards/caudalie.png"
+
+    },
+
+    {
+        "open_on_page": true,
+        "id": "navarro",
+        "name":"Navarro Ramón",
+        "video":"../images/about/about-vide.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "2023 · UX | UI",
+        "tools": ["FIGMA"],
+        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
+        "uxThings":"new",
+        "newTitle":"Nuevo titiulo",
+        "img":"images/cards/navarro.png"
+
+    },
+    {
+        "open_on_page": true,
+        "id": "live",
+        "name":"Live4Life",
+        "video":"../images/about/about-vide.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "UX/UI designer",
+        "tools": ["HTML", "SCSS", "JS", "FIGMA"],
+        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
+        "uxThings":"new",
+        "newTitle":"Nuevo titiulo",
+        "img":"images/cards/live.png"
+
+    },
+    {
+        "open_on_page": true,
+        "id": "weliving",
+        "name":"We Living",
+        "video":"../images/about/about-vide.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "Web design",
+        "tools": ["FIGMA", "ILLUSTRATION", "PHOTOSHOP"],
+        "introduction":"Web and branding design for students coliving",
+        "uxThings":"new",
+        "img": "images/weliving/mock-weliving.png",
+        "image1": "../images/about/desk-about.jpg",
+        "image2": "../images/about/desk-about.jpg",
+        "image3": "../images/about/desk-about.jpg",
+        "image4": "../images/about/desk-about.jpg"
+    },
+    {
+        "id": "terralava",
+        "name": "Terralava",
+        "video":"../images/terra/terra-video.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "Online shop",
+        "tools": ["HTML", "SCSS", "JS", "FIGMA"],
+        "img": "images/cards/card-terralava.jpg",
+        "image1": "../images/terra/desk-terra.jpg",
+        "image2": "../images/terra/mob-terra.jpg",
+        "image3":"../images/terra/product-terra.png",
+        "image4":"../images/terra/home-terra.jpg",
+        "introduction":"Front-end design and programming of a dynamic and scalable website for a jewellery store. Sections created: Home, Shop with respective categories and an interactive test for users. Mobile first designed and programmed.",
+        "goal1":"PERSONAL: One of my main objectives was to make a design that looks like a real online shop website. And learn about the architecture of online shop websites.",
+        "goal2":"PROFESSIONAL: Make a design that looks like a real online shop website. Add interactivity and make the user's journey through the website fun. To do this I looked for a way to innovate and stand out from the competition's websites",
+        "methodologies1":"",
+        "methodologies2":"",
+        "methodologies3":"",
+        "methodologies4":"",
+        "bestPractices1":"Easy and friendly navigation",
+        "bestPractices2":"In the home section we find several calls to action to help the user to navigate",
+        "bestPractices3":"In each section there are links that take you to other sections, in this way we do not leave any section without an exit",
+        "bestPractices4":"Design made from atom design, that is, designing by components.",
+        "bestPractices5":"Create a simple interactive quiz to make the user feel involved and important. Consisting of 7 questions, by answering a question, a smooth scroll took the user to the next one, which required minimum effort.  The results vary according to the option chosen for each question. In this way, we offer user support and innovate in the online jewellery retail market.",
+        "wireframes":"../images/works/terralava/wireframes-compr.jpg",
+        "":"",
+        "frontGoal":"Move away from static programming. And learn how to dynamise content, using tools such as JavaScript and PHP",
+        "bestPracticesF1":"Mobile first programming",
+        "bestPracticesF2":"Responsive for: mobile, tablet and desktop",
+        "scss":"SCSS",
+        "scss1":"Grid",
+        "scss2":"Flex",
+        "scss3":"Use of variables, mixins, nested classes ",
+        "html":"PHP",
+        "html1":"Incorporation of elements such as the header and footer with a simple function",
+        "html2":"Manipulation of paths to achieve shorter URLs, which is beneficial for SEO",
+        "js":"JAVASCRIPT",
+        "js1":"Create a JSON to store product information and request the information. In this way fill each section dynamically via Axios and Fetch. In this way for the shop section, a grid was created as a structure with scss and the images and data such as price, name of each jewel or description were filled in with JSON.",
+        "js2":"Creation of an interactive test for users. By completing the test questions, results are displayed according to what has been selected. The answers were in an array, and the results were loaded via a path. In this way I learned a bit about paths.",
+        "js3":"Learn to use online libraries to incorporate a swiper. At the same time learning the negative part of using them",
+        "WebOnLive":"https://frontend.esatid3-2021.com/binca-beta",
+        "Git":"https://github.com/Binca-SA/terralava-beta",
+        "projects": [
+            {
+                "Goals":"",
+                "Methodologies":[
+                    {
+                        "user flow":"",
+                        "user persona":""
+                    }
+                ],
+                "best-practices":"",
+                "Wireframes":"",
+                "Tools":["MIRO, FIGMA"]
+            },
+            {
+                "Goals":"Move away from static programming. And learn how to dynamise content, using tools such as JavaScript and PHP",
+                "Methodologies":[
+                    {
+                        "mobile-first-programming":"mobile first programming",
+                        "Responsive":"Responsive for: mobile, tablet and desktop",
+                        "SCSS":[
+                            {
+                                "grid":"grid",
+                                "flex":"flex",
+                                "variables":"Use of variables for: colour, spacing, margins, texts..",
+                                "mixins":"Mixins",
+                                "gradient":"Animated Gradient"
+                            }
+                        ],
+                        "HTML": [
+                            {
+                                "accesibility":"accessibility on svg and images"
+                            }
+                        ],
+                        "JAVASCRIPT": [
+                            {
+                                "labels":"labels on focus when user it’s on the selected section, that helps ubication. ",
+                                "gradient": "functionality of the animated gradient made with css:is activated in any section except the home page."
+                            }
+                        ]
+                    }
+                ]
+                
+            }
+        ]
+    },
+
+
+
+    {
+        "id": "ronda-martinez-abogados",
+        "name": "Ronda & Martínez Abogados",
+        "category": "graphic-design",
+        "filter":["Graphic Design"],
+        "description": "Corporate identity design",
+        "tools": ["ILLUSTRATOR", "PHOTOSHOP", "INDESIGN"],
+        "img":"images/cards/card-rondajpg.jpg",
+        "introduction":"Ronda & Martínez is a law firm with more than 30 years of experience ubicated in Altea, Alicante. They needed an identity design. All the process is set out in a manual where all the rules and construction of the brand are included.",
+        "image1": "../images/ronda/carpeta.png",
+        "image2": "../images/ronda/carta--fact.jpg",
+        "image3": "../images/ronda/tarjeta.jpg",
+        "image4": "../images/ronda/manual.jpg",
+        "image5": "../images/ronda/manual-hojaspng.png",
+        "needs":" Ronda y Martínez lacked any graphic representation, which made it very difficult for them to sponsor themselves and stand out from the rest of the lawyers in Altea. What they needed:",
+        "needs1":"A brand for daily use.",
+        "needs2":"A logo that represented their personality and professionalism. The final result of the logo represents: stability, with a modern and elegant design playing with the sizes of the column width. Inspired by the greek columns as this is where the law comes from.",
+        "needs3":"That their great track record and way of working would be reflected both visually and in writing.",
+        "needs4":"To stand out from the rest of the law firms.",
+        "needs5":"To tell their story",
+        "obj":"",
+        "obj1":"Create a visual identity manual reflecting the rules of graphic use, the formation of the logo, the chromatic palette representing the brand, the typography and incorrect uses of the brand elements. ",
+        "obj2":"Designs that could be used in everyday life. Stationery such as: letters, business cards, folders, invoices, etc.",
+        "tool1":"Adobe Illustrator",
+        "tool2":"Adobe Photoshop",
+        "tool3":"Adobe InDesign",
+        "needs-solved":["Ronda y Martínez lacked any graphic representation, which made it very difficult for them to sponsor themselves and stand out from the rest of the lawyers in Altea. What they needed:",
+                        "A brand for daily use",
+                        "A logo that represented their personality and professionalism. The final result of the logo represents: stability, with a modern and elegant design playing with the sizes of the column width. Inspired by the greek columns as this is where the law comes from.", "That their great track record and way of working would be reflected both visually and in writing.", "To stand out from the rest of the law firms.",
+                        "To tell their story"],
+        "Objective":["Create a visual identity manual reflecting the rules of graphic use, the formation of the logo, the chromatic palette representing the brand, the typography and incorrect uses of the brand elements.", "Designs that could be used in everyday life. Stationery such as: letters, business cards, folders, invoices, etc"]
+    },
+    {
+        "id": "almond-harmony",
+        "name": "Almond Harmony",
+        "category": "graphic-design",
+        "filter":["Graphic Design"],
+        "description": "Corporate identity design",
+        "tools": ["ILLUSTRATOR", "PHOTOSHOP", "INDESIGN"],
+        "img":"images/cards/card-almond.jpg",
+        "introduction":"Almond Harmony is a handmade clothing shop with quality fabrics from India, Morocco and Turkey. The bright colours and the softness of their clothes are what makes them stand out.",
+        "image1": "../images/almond/tarjetas.jpg",
+        "image2": "../images/almond/package.jpg",
+        "image3": "../images/almond/Clothing.jpg",
+        "image4": "../images/almond/vela.jpg",
+        "image5": "../images/almond/bolsa-tela.jpg",
+        "needs":" Almond Harmony needed a brand construction in its entirety with which to represent itself.",
+        "needs1":"A logo construction was made with its variants, colour palettes, and typography uses.",
+        "needs2":"Creation of naming, logotype and different applications such as fabric bags, packaging, cards, labels, candles,...",
+        "obj":"",
+        "obj1":"A fresh visual identity, with bright and harmonious colours to make the brand's target feel identified.",
+        "obj2":"Represent the values of the brand in a visual way such as: 100% handmade and organic, quality fabrics, fresh and comfortable clothes.",
+        "tool1":"Adobe Illustrator",
+        "tool2":"Adobe Photoshop",
+        "tool3":"Adobe InDesign",
+        "tool4":"Procreate",
+        "needs-solved":["Almond Harmony needed a brand construction in its entirety with which to represent itself.",
+                        "A logo construction was made with its variants, colour palettes, and typography uses.", "Creation of naming, logotype and different applications such as fabric bags, packaging, cards, labels, candles,..."],
+        "Objective":["A fresh visual identity, with bright and harmonious colours to make the brand's target feel identified.", "Represent the values of the brand in a visual way such as: 100% handmade and organic, quality fabrics, fresh and comfortable clothes."]
+    },
+    {
+        "id": "health-centre",
+        "name": "Health Centre Almassera",
+        "category": "graphic-design",
+        "filter":["Graphic Design"],
+        "description": "Design",
+        "tools": ["ILLUSTRATOR", "PHOTOSHOP", "PROCREATE"],
+        "img":"images/cards/card-vila.jpg",
+        "introduction":"A small piece of work done during my internship at Mediterrània Creativa. Branding assignment for a specific season. The nurses at the Almassera de Tonda hospital wanted a logo to represent themselves for the covid-19 vaccination season.",
+        "image1": "../images/vila/gel.jpg",
+        "image2": "../images/vila/tarjeta.jpg",
+        "image3": "../images/vila/medic.jpg",
+        "image4": "../images/vila/notebook.jpg",
+        "needs":"Some graphic elements were designed to help reinforce the identity created:",
+        "needs1":"A logo inspired by the colourful houses of the village",
+        "needs2":"A supporting pattern for corporate elements",
+        "obj":"",
+        "obj1":"With a small commission for a simple logo to create a scalable identity. A colourful logo to convey joy and familiarity. ",
+        "obj2":"The elements that make up the logo can be reused to create graphic elements such as those shown in the images.",
+        "tool1":"Adobe Illustrator",
+        "tool2":"Adobe Photoshop",
+        "tool3":"Procreate",
+        "needs-solved":["Some graphic elements were designed to help reinforce the identity created:","A logo inspired by the colourful houses of the village", "A supporting pattern for corporate elements"],
+        "Objective":["With a small commission for a simple logo to create a scalable identity", "A colourful logo to convey joy and familiarity.", "The elements that make up the logo can be reused to create graphic elements such as those shown in the images"]
+    }
+]

@@ -1,0 +1,5 @@
+@media (min-width:950px){
+    .container-graphic__info{
+        max-width: 35vw;
+    }
+}

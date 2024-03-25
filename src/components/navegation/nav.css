@@ -1,0 +1,33 @@
+/*INSIDE MENU ELEMENTS*/
+.menu{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: white;
+    font-size: var(--menuMob-texts-size);
+    font-family: var(--menuMob-text-font);
+    flex: .5;
+}
+    .nav-menu-items{
+        text-decoration: none;
+        line-height: 96%;
+        color: var(--txt-cta);
+        margin-bottom: 3rem;
+    }
+    .nav-menu-items:hover{
+        font-family:var(--menuMob-text-hover) ;
+    }
+
+/*RESPONSIVE DESKTOP*/
+@media (min-width:700px) {
+    .menu{
+        font-size: var(--menu-texts-size);
+        gap: 0;
+    }
+        .nav-menu-items{
+            width: 100%;
+            font-size: var(--main-titles);
+            margin-bottom: 0;
+        }
+        
+}

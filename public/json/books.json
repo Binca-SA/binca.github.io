@@ -1,0 +1,55 @@
+[
+    {
+        "title": "Design your life",
+        "author": "Bill Burnett & Dave Evans ",
+        "category":"DESIGN",
+        "categoryTwo": "PSICHOLOGY",
+        "categoryThree": "DESIGN THINKING IN YOUR DAILY LIFE"
+    },
+    {
+        "title": "En la mente del usuario",
+        "author": "Justo Hidalgo ",
+        "category":"UX",
+        "categoryTwo": "BUISNESS ETHICS",
+        "categoryThree": "PSYCHOLOGY",
+        "categoryFour": "PRODUCT DESIGN"
+    },
+    {
+        "title": "Girls just wanna have funds",
+        "author": "Femmale invest",
+        "category":"INVESTING",
+        "categoryTwo": "FINANCES"
+    },
+    {
+        "title": "Girls just wanna have impact funds",
+        "author": "Femmale invest",
+        "category":"INVESTING",
+        "categoryTwo": "FINANCES",
+        "categoryThree": "IMPACT INVESTING"
+    },
+    {
+        "title": "Don’t make me think",
+        "author": "Steve Krug ",
+        "category":"UX"
+    },
+    {
+        "title": "Laws of UX",
+        "author": "Jon Yablonski ",
+        "category":"UX"
+    },
+    {
+        "title": "Idea, producto y negocio",
+        "author": "Justo Hidalgo ",
+        "category":"ENTREPRENEURSHIP",
+        "categoryTwo":"BUSINESS",
+        "categoryThree":"PRODUCT"
+
+    },
+    {
+        "title": "100 Things Every Designer Needs to Know About People, 2nd Edition",
+        "author": "Susan M. Weinschenk",
+        "category":"UX",
+        "categoryTwo":"PERCEPTION",
+        "categoryThree":"PSYCHOLOGY"
+    }
+]
