@@ -15,7 +15,7 @@ export default function Header() {
         <>
         <section className='container-header'>
             <div className='logo'>
-                <a href='/binca-portfolio/'  className='home-link link hover-style'>BS</a>
+                <a href='/binca/'  className='home-link link hover-style'>BS</a>
             </div>
             <div className='navbar'>
                 <Link to='#' onClick={showSidebar} className='menu-bars link hover-style'>MENU</Link>
