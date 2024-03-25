@@ -1,5 +1,65 @@
 [
-    
+    {
+        "open_on_page": true,
+        "id": "growth",
+        "name":"Growth AI",
+        "video":"../images/about/about-vide.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "2023 · Product design",
+        "tools": ["FIGMA"],
+        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
+        "uxThings":"new",
+        "newTitle":"Nuevo titiulo",
+        "img":"images/cards/growth.png"
+
+    },
+    {
+        "open_on_page": true,
+        "id": "caudalie",
+        "name":"Caudalie",
+        "video":"../images/about/about-vide.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "Website redesign",
+        "tools": ["FIGMA"],
+        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
+        "uxThings":"new",
+        "newTitle":"Nuevo titiulo",
+        "img":"images/cards/caudalie.png"
+
+    },
+
+    {
+        "open_on_page": true,
+        "id": "navarro",
+        "name":"Navarro Ramón",
+        "video":"../images/about/about-vide.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "2023 · UX | UI",
+        "tools": ["FIGMA"],
+        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
+        "uxThings":"new",
+        "newTitle":"Nuevo titiulo",
+        "img":"images/cards/navarro.png"
+
+    },
+    {
+        "open_on_page": true,
+        "id": "live",
+        "name":"Live4Life",
+        "video":"../images/about/about-vide.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "UX/UI designer",
+        "tools": ["HTML", "SCSS", "JS", "FIGMA"],
+        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
+        "uxThings":"new",
+        "newTitle":"Nuevo titiulo",
+        "img":"images/cards/live.png"
+
+    },
     {
         "open_on_page": true,
         "id": "weliving",
@@ -7,7 +67,7 @@
         "video":"../images/about/about-vide.mp4",
         "category": "frontend",
         "filter":["Frontend", "UX | UI"],
-        "description": "Web and branding design",
+        "description": "Web design",
         "tools": ["FIGMA", "ILLUSTRATION", "PHOTOSHOP"],
         "introduction":"Web and branding design for students coliving",
         "uxThings":"new",
@@ -18,21 +78,6 @@
         "image4": "../images/about/desk-about.jpg"
     },
     {
-        "open_on_page": true,
-        "id": "sphere",
-        "name":"Sphere",
-        "video":"../images/about/about-vide.mp4",
-        "category": "frontend",
-        "filter":["Frontend", "UX | UI"],
-        "description": "Web layout design",
-        "tools": ["FIGMA"],
-        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
-        "uxThings":"new",
-        "newTitle":"Nuevo titiulo",
-        "img":"images/sphere/cover.png"
-
-    },
-    {
         "id": "terralava",
         "name": "Terralava",
         "video":"../images/terra/terra-video.mp4",
@@ -41,11 +86,10 @@
         "description": "Online shop",
         "tools": ["HTML", "SCSS", "JS", "FIGMA"],
         "img": "images/cards/card-terralava.jpg",
-        "image1": "../images/terra/portada.png",
-        "image2": "../images/terra/flor.png",
+        "image1": "../images/terra/desk-terra.jpg",
+        "image2": "../images/terra/mob-terra.jpg",
         "image3":"../images/terra/product-terra.png",
         "image4":"../images/terra/home-terra.jpg",
-        "image5":"../images/terra/mob-terra.jpg.jpg",
         "introduction":"Front-end design and programming of a dynamic and scalable website for a jewellery store. Sections created: Home, Shop with respective categories and an interactive test for users. Mobile first designed and programmed.",
         "goal1":"PERSONAL: One of my main objectives was to make a design that looks like a real online shop website. And learn about the architecture of online shop websites.",
         "goal2":"PROFESSIONAL: Make a design that looks like a real online shop website. Add interactivity and make the user's journey through the website fun. To do this I looked for a way to innovate and stand out from the competition's websites",
@@ -121,96 +165,6 @@
             }
         ]
     },
-    {
-        "id": "about-me",
-        "name":"About Me",
-        "video":"../images/about/about-vide.mp4",
-        "category": "frontend",
-        "filter":["Frontend", "UX | UI"],
-        "description": "One page presentation",
-        "tools": ["HTML", "SCSS", "JS", "FIGMA"],
-        "img":"images/cards/card-about.jpg",
-        "introduction":"My first work as a UX|UI designer and Frontend. Design and prototyped one page web presentation about me. With horizontal navigation and mobile first designed.",
-        "image1": "../images/about/desk-about.jpg",
-        "image2": "../images/about/mock-mobabout.jpg",
-        "image3":"",
-        "image4":"",
-        "goals":["PERSONAL: one of my main objectives was to create something original and dynamic to give movement to the website as it had to be one page.","PROFESSIONAL: functional and visually attractive. Apply basic UX | UI rules, such as text construction, eye-catching headers, good colour palette,.."],
-        "goal1":"PERSONAL: one of my main objectives was to create something original and dynamic to give movement to the website as it had to be one page.",
-        "goal2":"PROFESSIONAL: functional and visually attractive. Apply basic UX | UI rules, such as text construction, eye-catching headers, good colour palette.",
-        "methodologies":[ "/images/about/userpersona1.jpg", "/images/about/userpersona2.jpg", "/images/about/sitemap-aboutme.jpg", "/images/about/user-map1.jpg", "/images/about/user-map2.jpg"],
-        "methodologies1":"/images/about/userpersona1.jpg",
-        "methodologies2":"/images/about/userpersona2.jpg",
-        "methodologies3":"/images/about/sitemap-aboutme.jpg",
-        "methodologies4":"/images/about/user-map1.jpg",
-        "methodologies5":"/images/about/user-map2.jpg",
-        "bestPractices1":"On desktop, the elements that can be clicked on, if user makes hover, it highlights colour",
-        "bestPractices2":"In the menu, the section in which the user is located remains activated with a colour to highlight the location of where the user is. ",
-        "bestPractices3":"Simple navigation system, by means of a menu at the top on desktop",
-        "bestPractices4":"The navigation menu on mobile devices is located at the bottom to facilitate the use of this, so the user makes less effort to reach each section and does not have to do it with both hands or extending the thumb, simply in the natural position in which he takes the mobile can navigate without difficulty.",
-        "bestPractices5":"To create some atmosphere, dynamism and depth to the website I incorporated an animated background with gradients.",
-        "wireframes":"../images/about/wireframes-about-comp.jpg",
-        "":"",
-        "frontGoal": "Learn about the functionality of horizontal scroll, programm on mobile first size, and have a good organisation in the structuring of the folders",
-        "bestPracticesF1":"Mobile first programming",
-        "bestPracticesF2":"Responsive for: mobile, tablet and desktop",
-        "scss":"SCSS",
-        "scss1":"Grid",
-        "scss2":"Flex",
-        "scss3":"Use of variables, mixins, nested classes ",
-        "scss4":"Animated gradient",
-        "html":"HTML",
-        "html1":"Accessibility on svg and images",
-        "js":"JAVASCRIPT",
-        "js1":"Labels on focus when user it’s on the selected section, that helps ubication.",
-        "js2":"Functionality of the animated gradient. It actives in all the sections except in Home",
-        "WebOnLive":"https://frontend.esatid3-2021.com/binca",
-        "Git":"https://github.com/Binca-SA/projectAlpha",
-        "ux": [
-            {
-                "Goals":"",
-                "Methodologies":[
-                    {
-                        "user flow":"",
-                        "user persona":""
-                    }
-                ],
-                "best-practices":"",
-                "Wireframes":"",
-                "Tools":"MIRO, FIGMA"
-            },
-            {
-                "Goals":"lear about the functionality of horizontal scroll, programm on mobile first size, and have a good organisation in the structuring of the folders.",
-                "Methodologies":[
-                    {
-                        "mobile-first-programming":"mobile first programming",
-                        "Responsive":"Responsive for: mobile, tablet and desktop",
-                        "SCSS":[
-                            {
-                                "grid":"grid",
-                                "flex":"flex",
-                                "variables":"Use of variables for: colour, spacing, margins, texts..",
-                                "mixins":"Mixins",
-                                "gradient":"Animated Gradient"
-                            }
-                        ],
-                        "HTML": [
-                            {
-                                "accesibility":"accessibility on svg and images"
-                            }
-                        ],
-                        "JAVASCRIPT": [
-                            {
-                                "labels":"labels on focus when user it’s on the selected section, that helps ubication. ",
-                                "gradient": "functionality of the animated gradient made with css:is activated in any section except the home page."
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    },
-    
 
 
 
@@ -274,7 +228,6 @@
                         "A logo construction was made with its variants, colour palettes, and typography uses.", "Creation of naming, logotype and different applications such as fabric bags, packaging, cards, labels, candles,..."],
         "Objective":["A fresh visual identity, with bright and harmonious colours to make the brand's target feel identified.", "Represent the values of the brand in a visual way such as: 100% handmade and organic, quality fabrics, fresh and comfortable clothes."]
     },
-
     {
         "id": "health-centre",
         "name": "Health Centre Almassera",

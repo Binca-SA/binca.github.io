@@ -1,5 +1,50 @@
 [
     {
+        "title": "A piece of landing",
+        "description": "Inspired by Petliger, an artist I admire and inspire me. ",
+        "img":"images/archiveImgs/petliger3.png"
+    },
+    {
+        "title": "Testing",
+        "description": "Part of my creative process testing different samples for Petliger website ",
+        "img":"images/archiveImgs/petliger.png"
+    },
+    {
+        "title": "Cover landing Petliger",
+        "description": "Part of my creative process testing different samples.",
+        "img":"images/archiveImgs/petliger2.png"
+    },
+    {
+        "title": "Navarro Ramón artwork exposition",
+        "description": "Teamwork with the agency Mediterrània Creativa for the design of an outdoor exhibition in Altea in honour of the artist Navarro Ramón.",
+        "img":"images/archiveImgs/nr1.png"
+    },
+    {
+        "title": "Website for Navarro Ramón",
+        "description": "Website design to commemorate the work of Navarro Ramón. Commissioned by the town council of Altea.",
+        "img":"images/archiveImgs/nr2.png"
+    },
+    {
+        "title": "NR expo II",
+        "description": "",
+        "img":"images/archiveImgs/nr-3.png"
+    },
+    {
+        "title": "Sphere",
+        "description": "The perfect place to escape the world. ",
+        "img":"images/archiveImgs/sphere-1.png"
+    },
+    {
+        "title": "Sphere section II",
+        "description": "",
+        "img":"images/archiveImgs/sph-2.png"
+    },
+    {
+        "title": "Sphere section III",
+        "description": "",
+        "img":"images/archiveImgs/sph-3.png"
+    },
+    {
         "title": "As an heaven",
         "description": "Product photography for Ananda ",
         "img":"images/archiveImgs/As-an-heaven.jpg"
