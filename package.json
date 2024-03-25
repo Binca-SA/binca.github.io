@@ -14,8 +14,10 @@
     "react-scroll-motion": "^0.3.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://frontend.esatid3-2021.com/binca-portfolio/",
+  "homepage": "https://binca-sa.github.io/binca/",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
