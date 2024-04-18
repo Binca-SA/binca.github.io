@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/binca/static/css/main.d5e21b8e.css",
-    "main.js": "/binca/static/js/main.0c0252b7.js",
+    "main.css": "/binca/static/css/main.b42d594d.css",
+    "main.js": "/binca/static/js/main.2de2f524.js",
     "static/js/787.252c5a3f.chunk.js": "/binca/static/js/787.252c5a3f.chunk.js",
     "static/media/Vercetti-Regular.ttf": "/binca/static/media/Vercetti-Regular.90f25ad2714be7a5234c.ttf",
     "index.html": "/binca/index.html",
-    "main.d5e21b8e.css.map": "/binca/static/css/main.d5e21b8e.css.map",
-    "main.0c0252b7.js.map": "/binca/static/js/main.0c0252b7.js.map",
+    "main.b42d594d.css.map": "/binca/static/css/main.b42d594d.css.map",
+    "main.2de2f524.js.map": "/binca/static/js/main.2de2f524.js.map",
     "787.252c5a3f.chunk.js.map": "/binca/static/js/787.252c5a3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5e21b8e.css",
-    "static/js/main.0c0252b7.js"
+    "static/css/main.b42d594d.css",
+    "static/js/main.2de2f524.js"
   ]
 }
