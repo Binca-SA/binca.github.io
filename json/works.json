@@ -64,7 +64,7 @@
     {
         "open_on_page": true,
         "id": "live",
-        "name":"Live4Life",
+        "name":"Live4life",
         "video":"../images/about/about-vide.mp4",
         "category": "frontend",
         "filter":["Frontend", "UX | UI"],
