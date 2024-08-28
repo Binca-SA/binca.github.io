@@ -1,6 +1,21 @@
 [
     {
         "open_on_page": true,
+        "id": "audi",
+        "name":"Audi & Volkswagen",
+        "video":"../images/about/about-vide.mp4",
+        "category": "frontend",
+        "filter":["Frontend", "UX | UI"],
+        "description": "Interactive presentation for Audi & Volkswagen",
+        "tools": ["FIGMA"],
+        "introduction":"",
+        "uxThings":"new",
+        "newTitle":"Nuevo titiulo",
+        "img":"images/audi/audi.png"
+
+    },
+    {
+        "open_on_page": true,
         "id": "growth",
         "name":"Growth AI",
         "video":"../images/about/about-vide.mp4",
